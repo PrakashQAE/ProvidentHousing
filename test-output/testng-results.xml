@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="39060" started-at="2019-09-02T13:11:55Z" finished-at="2019-09-02T13:12:34Z">
+    <groups>
+      <group name="Smoke">
+        <method signature="TC_0001_Login.TC_0001(java.lang.String)[pri:0, instance:focuz.provident.testcases.TC_0001_Login@3159c4b8]" name="TC_0001" class="focuz.provident.testcases.TC_0001_Login"/>
+      </group> <!-- Smoke -->
+      <group name="Sprint1">
+        <method signature="TC_0001_Login.TC_0001(java.lang.String)[pri:0, instance:focuz.provident.testcases.TC_0001_Login@3159c4b8]" name="TC_0001" class="focuz.provident.testcases.TC_0001_Login"/>
+      </group> <!-- Sprint1 -->
+    </groups>
+    <test name="Default test" duration-ms="39060" started-at="2019-09-02T13:11:55Z" finished-at="2019-09-02T13:12:34Z">
+      <class name="focuz.provident.testcases.TC_0001_Login">
+        <test-method status="PASS" signature="startReportTest()[pri:0, instance:focuz.provident.testcases.TC_0001_Login@3159c4b8]" name="startReportTest" is-config="true" duration-ms="133" started-at="2019-09-02T13:11:55Z" finished-at="2019-09-02T13:11:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReportTest -->
+        <test-method status="PASS" signature="testDetails()[pri:0, instance:focuz.provident.testcases.TC_0001_Login@3159c4b8]" name="testDetails" is-config="true" duration-ms="0" started-at="2019-09-02T13:11:55Z" finished-at="2019-09-02T13:11:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDetails -->
+        <test-method status="PASS" signature="loadTestDetails()[pri:0, instance:focuz.provident.testcases.TC_0001_Login@3159c4b8]" name="loadTestDetails" is-config="true" duration-ms="29568" started-at="2019-09-02T13:11:56Z" finished-at="2019-09-02T13:12:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadTestDetails -->
+        <test-method status="PASS" signature="TC_0001(java.lang.String)[pri:0, instance:focuz.provident.testcases.TC_0001_Login@3159c4b8]" name="TC_0001" duration-ms="7703" started-at="2019-09-02T13:12:25Z" data-provider="getTestData" finished-at="2019-09-02T13:12:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC0001]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_0001 -->
+        <test-method status="PASS" signature="closeTest()[pri:0, instance:focuz.provident.testcases.TC_0001_Login@3159c4b8]" name="closeTest" is-config="true" duration-ms="1223" started-at="2019-09-02T13:12:33Z" finished-at="2019-09-02T13:12:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeTest -->
+        <test-method status="PASS" signature="flushTest()[pri:0, instance:focuz.provident.testcases.TC_0001_Login@3159c4b8]" name="flushTest" is-config="true" duration-ms="981" started-at="2019-09-02T13:12:34Z" finished-at="2019-09-02T13:12:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushTest -->
+      </class> <!-- focuz.provident.testcases.TC_0001_Login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
